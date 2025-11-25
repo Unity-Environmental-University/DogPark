@@ -7,7 +7,6 @@ This repository only hosts packaged builds of **DogPark**, an Unreal Engine 5.5 
 - Pick the build tagged for your platform (Windows, macOS, or Linux).
 - Each release includes:
   - A zipped build (`DogPark-1.0.1-Windows.zip`, `DogPark-1.0.1-Mac.zip`, etc.).
-  - A checksum text file for integrity verification.
   - Release notes summarizing gameplay tweaks and educational guidance.
 
 > Tip: If you only need the newest version, download the asset labeled **Latest**.
